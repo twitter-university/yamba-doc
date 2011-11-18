@@ -1,0 +1,6 @@
+= Yamba Project
+
+_Yamba: Yet Another Micro Blogging App_
+
+Yamba is a an application used to explore the intricacies of Android app development. It was originally developed by @MarkoGargenta for Marakana Android Bootcamp.
+
