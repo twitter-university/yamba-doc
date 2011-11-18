@@ -2,5 +2,5 @@
 
 _Yamba: Yet Another Micro Blogging App_
 
-Yamba is a an application used to explore the intricacies of Android app development. It was originally developed by @MarkoGargenta for Marakana Android Bootcamp.
+Yamba is a an application used to explore the intricacies of Android app development. It was originally developed by https://twitter.com/#!/MarkoGargenta[@MarkoGargenta] for http://marakana.com[Marakana] http://marakana.com/training/android/android_bootcamp.html[Android Bootcamp].
 
